@@ -1,0 +1,7 @@
+First of all, download the git exe file from URL https://git-scm.com/install/windows
+Subsequently, install Git on the git to local PC
+After that, run a version check from the terminal. The command is <git –version>
+Log in to the GitHub account using valid credentials
+Create a repo. The repo name is “Edge-software-testing.”
+
+
